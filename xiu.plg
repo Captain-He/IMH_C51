@@ -1,0 +1,15 @@
+<html>
+<body>
+<pre>
+<h1>礦ision Build Log</h1>
+<h2>Project:</h2>
+C:\Users\ARM1\Desktop\IMH-C51_APP未试用_外接数码管_二灯_二超声波版\IMH-C51_app适用般_两次设置_未加超声波\IMH5 - APP试用版\xiu.uvproj
+Project File Date:  03/17/2017
+
+<h2>Output:</h2>
+Rebuild target 'Target 1'
+compiling DS3231_Clock.c...
+linking...
+Program Size: data=9.5 xdata=134 code=4084
+creating hex file from "xiu"...
+"xiu" - 0 Error(s), 0 Warning(s).
